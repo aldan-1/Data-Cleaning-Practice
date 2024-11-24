@@ -12,3 +12,8 @@ To ensure the project's flow, it will follow the 6 steps of data analysis as pos
 - Step 6: `Data storytelling`
 
 Steps 2 - 4 will be done in `Jupyter`, and steps 5 - 6 will be done in `PowerBI`
+
+====================================================================================================================================================================
+
+The data was taken from a Kaggle repository, uploaded by [Practice Data Analysis With Me](https://www.kaggle.com/lainguyn123). 
+If you're interested in doing the analysis, you can download the data [here](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors).
